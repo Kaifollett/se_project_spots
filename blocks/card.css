@@ -1,10 +1,12 @@
 .card__title {
+  max-width: 350px;
   line-height: 24px;
   font-weight: 500;
   font-size: 20px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  margin: 0;
 }
 
 .card__image {
@@ -28,6 +30,12 @@
   height: 20px;
   border: none;
   background-color: transparent;
+  cursor: pointer;
+  background-size: contain;
+}
+
+.card__like-button:hover {
+  background-image: url(../images/heart_bold.svg);
 }
 
 @media screen and (max-width: 627px) {
@@ -39,9 +47,6 @@
 
   .card__title {
     padding-bottom: 0;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
     max-width: 235px;
   }
 

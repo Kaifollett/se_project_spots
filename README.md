@@ -1,34 +1,17 @@
-# Project 3: Spots
+Spots: a project by Kai Follett
 
-<<<<<<< HEAD
+This page is designed to allow users to share photos with other users. Spots features an interactive profile with a like function that allows
+other users to express appreciation for your work. This project transforms seamlessly between desktop, tablet, and mobile viewing to allow
+the best user experience no matter the device.
 
-### Overview
+This project utilizes BEM Methodology to keep file paths clean and organized as well as integrated adaptive design that allows for seamless
+transitions between screen sizes with no horizontal scrolling. To achieve the automatic transition I paired display: grid; with the media query
+to allow the rows of photos to collapse under each other as dictated by the screen resolution that the project is being viewed on.
 
-- Intro
-- Figma
-- Images
+Example of the project being viewed on desktop: https://gyazo.com/8bb5497c8db40ac9fa67ed8cdf471625
+Example of the project being viewed on mobile: https://gyazo.com/4486f59b002bdfd0d52049ed90d38935
 
-**Intro**
-
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
-
-**Figma**
-
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-# Good luck and have fun!
-
-### Overview
-
-- Intro
-- Figma
-- Images
-- Adaptive Design
-
-This project is made so all the elements are displayed correctly on popular screen sizes. Received the bulk of direction with design elements from Figma.
-
-> > > > > > > 7d2068d (new update for my project) !
+View this project here: https://github.com/Kaifollett/se_project_spots
+A short video describing the project:
+Webpage description: https://streamable.com/zmc3cc
+Project description: https://streamable.com/6rapun
