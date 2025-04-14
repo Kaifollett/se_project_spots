@@ -30,7 +30,7 @@
   justify-content: space-between;
 }
 
-.card__like_button {
+.card__like-button {
   background-image: url("../images/heart_bold.svg");
   background-repeat: no-repeat;
   width: 23px;
@@ -43,7 +43,7 @@
   background-position: center;
 }
 
-.card__like_button:hover {
+.card__like-button:hover {
   opacity: 1;
 }
 
@@ -57,7 +57,7 @@
     font-size: 16px;
   }
 
-  .card__like_button {
+  .card__like-button {
     padding-bottom: 0;
     height: 20px;
     width: 18px;
