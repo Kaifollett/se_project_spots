@@ -82,3 +82,8 @@ function handleAddCardSubmit(event) {
 }
 
 newPostFormEl.addEventListener("submit", handleAddCardSubmit);
+
+initialCards.forEach(function (item) {
+  console.log(item.name);
+  console.log(item.link);
+});
