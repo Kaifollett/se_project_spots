@@ -24,6 +24,10 @@
   margin-bottom: 12px;
 }
 
+.card__image:hover {
+  cursor: pointer;
+}
+
 .card__footer {
   display: flex;
   align-items: center;
